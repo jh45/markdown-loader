@@ -13,7 +13,7 @@ markdown-loader for webpack using [marked](https://github.com/markedjs/marked).
 
 `npm install markdown-loader`
 
-## [Changelog](CHANGELOG.md) 
+## [Changelog](CHANGELOG.md)
 
 ## Usage
 
